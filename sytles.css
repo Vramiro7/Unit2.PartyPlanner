@@ -6,3 +6,17 @@ h1{
 body {
 	background-color: darkgray;
 }
+
+section {
+	background-color: black;
+	color: aliceblue;
+	border-style: solid;
+	border-color: aliceblue;
+}
+
+li {
+	padding: 10px;
+	border-bottom: solid;
+	border-color: aliceblue;
+	border-width: thin;
+}
